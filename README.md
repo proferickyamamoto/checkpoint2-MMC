@@ -74,7 +74,7 @@ Após construir os gráficos da Parte 3, responda:
 
 ### 📋 Entrega
 
-- 🧾 Cada grupo deve entregar:
+- 🧾 Cada grupo deve entregar um pdf com titulo rm1_rm2_rm3_rm4_rm5.pdf:
   - Respostas da Parte 1.
   - Cálculos da Parte 2.
   - Captura de tela ou código + gráfico da Parte 3.
